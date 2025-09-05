@@ -21,9 +21,9 @@ This project implements a fully functional quadcopter control system using Ardui
 
 ## Usage and Licensing
 
-**This project licensed under GNU GPL 3.0**
+**This project licensed under GNU GPL-3.0**
 
-You may use it, copy it, modify it, republish it, but you need to keep it open and published verbatim under GNU GPL 3.0
+You may use it, copy it, modify it, republish it, but you need to keep it open and published verbatim under GNU GPL-3.0
 
 ## How it Started
 
