@@ -13,9 +13,18 @@ This project implements a fully functional quadcopter control system using Ardui
 
 This started as a College group project by [**Shantom Gayen**](https://github.com/ShantomGayen), **Rakesh Bhowmik**, [**Shibjyoti Das**](https://github.com/Shibjyoti555), **Sanjit Saren**, **Dip Ghosh**, **Sayan Biswas**, **Anuva Bhattacharya**, and **Pranab Mondal**. We then decided to open it to the world, hoping it reaches people like you, who can use it, learn from it, and help improve it.
 
+## How to Build
+
+Circuit diagrams of the transmitter and receiver are in [`/circuit`](/circuit) as `circuit/dronetx.png` and `circuit/dronerx.png` respectively.
+Assemble as given, and upload [`dronetx.ino`](dronetx.ino) to the Arduino NANO on the transmitter, and [`dronerx.ino`](dronerx.ino) to the Arduino NANO on the receiver.
+
+> 📌 **REMEMBER:** Use a light-weight frame (**aluminum recommended**).
+> Plastic frames or any other low elastic material may cause the quadcopter to vibrate mid-flight
+
 ## Usage and Licensing
 
 **This project licensed under GNU GPL 3.0**
+
 You may use it, copy it, modify it, republish it, but you need to keep it open and published verbatim under GNU GPL 3.0
 
 ## Key Features
