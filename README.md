@@ -13,6 +13,11 @@ This project implements a fully functional quadcopter control system using Ardui
 
 This started as a College group project by [**Shantom Gayen**](https://github.com/ShantomGayen), **Rakesh Bhowmik**, [**Shibjyoti Das**](https://github.com/Shibjyoti555), **Sanjit Saren**, **Dip Ghosh**, **Sayan Biswas**, **Anuva Bhattacharya**, and **Pranab Mondal**. We then decided to open it to the world, hoping it reaches people like you, who can use it, learn from it, and help improve it.
 
+## Usage and Licensing
+
+**This project licensed under GNU GPL 3.0**
+You may use it, copy it, modify it, republish it, but you need to keep it open and published verbatim under GNU GPL 3.0
+
 ## Key Features
 
 ### Flight Control
