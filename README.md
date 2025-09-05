@@ -9,6 +9,10 @@ This project implements a fully functional quadcopter control system using Ardui
 - **Receiver Unit** (`receiver.ino`) - Mounted on the quadcopter, handles flight stabilization, sensor data processing, and motor control
 - **Transmitter Unit** (`transmitter.ino`) - Handheld remote controller with joystick inputs and OLED display
 
+## How it Started
+
+This started as a College group project by [**Shantom Gayen**](https://github.com/ShantomGayen), **Rakesh Bhowmik**, [**Shibjyoti Das**](https://github.com/Shibjyoti555), **Sanjit Saren**, **Dip Ghosh**, **Sayan Biswas**, **Anuva Bhattacharya**, and **Pranab Mondal**. We then decided to open it to the world, hoping it reaches people like you, who can use it, learn from it, and help improve it.
+
 ## Key Features
 
 ### Flight Control
@@ -72,11 +76,11 @@ This project implements a fully functional quadcopter control system using Ardui
 
 ### Receiver
 
-![Receiver circuit](circuit/dronerx.png)
+![Receiver circuit diagram from circuit/dronerx.png](circuit/dronerx.png)
 
 ### Transmitter
 
-![Transmitter circuit](circuit/dronetx.png)
+![Transmitter circuit diagram from circuit/dronetx.png](circuit/dronetx.png)
 
 ## Getting Started
 
