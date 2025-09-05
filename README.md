@@ -3,7 +3,14 @@
 A complete Arduino-based quadcopter flight control system with wireless remote control and real-time telemetry.
 
 ## Table of Contents
-- [Overview](#Overview)
+- [Overview](#overview)
+- [Usage and Licensing](useage-and-licensing)
+- [How it Started](how-it-started)
+- [How to Build](how-to-build)
+- [Key Features](#key-features)
+- [Hardware Requirements](#hardware-requirements)
+- [Circuit](#circuit)
+- [Important Notes](#important-notes)
 
 ## Overview
 
@@ -11,6 +18,12 @@ This project implements a fully functional quadcopter control system using Ardui
 
 - **Receiver Unit** (`receiver.ino`) - Mounted on the quadcopter, handles flight stabilization, sensor data processing, and motor control
 - **Transmitter Unit** (`transmitter.ino`) - Handheld remote controller with joystick inputs and OLED display
+
+## Usage and Licensing
+
+**This project licensed under GNU GPL 3.0**
+
+You may use it, copy it, modify it, republish it, but you need to keep it open and published verbatim under GNU GPL 3.0
 
 ## How it Started
 
@@ -23,12 +36,6 @@ Assemble as given, and upload [`transmitter.ino`](dronetx.ino) to the Arduino NA
 
 > 📌 **REMEMBER:** Use a light-weight frame (**aluminum recommended**).
 > Plastic frames or any other low elastic material may cause the quadcopter to vibrate mid-flight
-
-## Usage and Licensing
-
-**This project licensed under GNU GPL 3.0**
-
-You may use it, copy it, modify it, republish it, but you need to keep it open and published verbatim under GNU GPL 3.0
 
 ## Key Features
 
@@ -99,26 +106,8 @@ You may use it, copy it, modify it, republish it, but you need to keep it open a
 
 ![Transmitter circuit diagram from circuit/dronetx.png](circuit/dronetx.png)
 
-## Getting Started
-
-1. Upload `receiver.ino` to the quadcopter's Arduino
-2. Upload `transmitter.ino` to the remote controller's Arduino
-3. Ensure proper wiring according to pin definitions in code
-4. Power on transmitter first, then receiver
-5. Calibrate the system before first flight
-
 ## Important Notes
 
 - **Calibration required** - Keep quadcopter stationary during gyroscope calibration
 - **Safety first** - Always test in controlled environment
 - **Battery monitoring** - Monitor voltage levels to prevent over-discharge
-
-## Documentation
-
-For detailed technical specifications, circuit diagrams, implementation details, and performance analysis, please refer to:
-
-**`Project Report - Quadcopter Major Project.pdf`**
-
-## License
-
-This project is provided as-is for educational and experimental purposes.
