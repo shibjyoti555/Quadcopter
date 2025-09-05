@@ -16,7 +16,7 @@ This started as a College group project by [**Shantom Gayen**](https://github.co
 ## How to Build
 
 Circuit diagrams of the transmitter and receiver are in [`/circuit`](/circuit) as `circuit/dronetx.png` and `circuit/dronerx.png` respectively.
-Assemble as given, and upload [`dronetx.ino`](dronetx.ino) to the Arduino NANO on the transmitter, and [`dronerx.ino`](dronerx.ino) to the Arduino NANO on the receiver.
+Assemble as given, and upload [`transmitter.ino`](dronetx.ino) to the Arduino NANO on the transmitter, and [`receiver.ino`](receiver.ino) to the Arduino NANO on the receiver.
 
 > 📌 **REMEMBER:** Use a light-weight frame (**aluminum recommended**).
 > Plastic frames or any other low elastic material may cause the quadcopter to vibrate mid-flight
