@@ -2,6 +2,9 @@
 
 A complete Arduino-based quadcopter flight control system with wireless remote control and real-time telemetry.
 
+## Table of Contents
+- [Overview](#Overview)
+
 ## Overview
 
 This project implements a fully functional quadcopter control system using Arduino NANO microcontrollers. The system consists of two main components:
