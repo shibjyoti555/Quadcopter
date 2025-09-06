@@ -27,7 +27,7 @@ You may use it, copy it, modify it, republish it, but you need to keep it open a
 
 ## How it Started
 
-This started as a College group project by [**Shantom Gayen**](https://github.com/ShantomGayen), **Rakesh Bhowmik**, [**Shibjyoti Das**](https://github.com/Shibjyoti555), **Sanjit Saren**, **Dip Ghosh**, **Sayan Biswas**, **Anuva Bhattacharya**, and **Pranab Mondal**. We then decided to open it to the world, hoping it reaches people like you, who can use it, learn from it, and help improve it.
+This started as a college group project by [**Shantom Gayen**](https://github.com/ShantomGayen), **Rakesh Bhowmik**, [**Shibjyoti Das**](https://github.com/Shibjyoti555), **Sanjit Saren**, **Dip Ghosh**, **Sayan Biswas**, **Anuva Bhattacharya**, and **Pranab Mondal**. We then decided to open it to the world, hoping it reaches people like you, who can use it, learn from it, and help improve it.
 
 ## How to Build
 
