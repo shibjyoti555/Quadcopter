@@ -1,6 +1,6 @@
 # Quadcopter Control System
 
-A complete Arduino-based quadcopter flight control system with wireless remote control and real-time telemetry.
+A complete MCU-based quadcopter flight control system with wireless remote control and real-time telemetry.
 
 ## Table of Contents
 - [Overview](#overview)
